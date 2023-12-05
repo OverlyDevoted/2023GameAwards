@@ -1,0 +1,32 @@
+.container {
+    background-color: wheat;
+    height: 500px;
+    width: 500px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.child {
+    text-align: center;
+    width: 150px;
+    height: 150px;
+}
+
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+.purple {
+    background-color: purple;
+}
