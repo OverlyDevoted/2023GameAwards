@@ -62,7 +62,7 @@ nav {
     align-self: stretch;
     align-items: stretch;
     align-content: stretch;
-    
+    flex-wrap: wrap;
 }
 .header_main {
     display: flex;
