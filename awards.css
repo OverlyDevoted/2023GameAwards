@@ -31,14 +31,15 @@ body {
     background-color: rgba(255,255,255,.1);
     margin: 1em 0;
 }
-header {
+
+/* header {
     display:flex;
     align-items: center;
     justify-content: space-between;
     padding: 0;
     background-color: rgba(255,255,255,.1);
     flex: 0 1 auto;
-}
+} */
 /* header > * > * {
     margin: 1em;
 } */
